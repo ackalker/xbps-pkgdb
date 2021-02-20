@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0/GMime-3.0.typelib</string>
+			<key>mtime</key>
+			<integer>1595046196</integer>
+			<key>sha256</key>
+			<string>21f4a38c36ecb4538f1ac7a4f469272fd394753783595c835b09ea32935ea912</string>
+			<key>size</key>
+			<integer>91548</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgmime-3.0.so.0.206.1</string>
+			<key>mtime</key>
+			<integer>1595046196</integer>
+			<key>sha256</key>
+			<string>ecb6139bf14a2d82621a937fb3bc062bd910f4c73c86f647c89ba5ff548908d7</string>
+			<key>size</key>
+			<integer>514336</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgmime-3.0.so.0</string>
+			<key>mtime</key>
+			<integer>1595046196</integer>
+			<key>target</key>
+			<string>/usr/lib/libgmime-3.0.so.0.206.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

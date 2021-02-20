@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/jsoncpp</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libjsoncpp.so.24</string>
+			<key>mtime</key>
+			<integer>1607170492</integer>
+			<key>sha256</key>
+			<string>ddedea19bbcf68fdc67043eadbbe4cd985b8a8e743a62a9d1ce8902b5088de93</string>
+			<key>size</key>
+			<integer>211024</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/jsoncpp/LICENSE</string>
+			<key>mtime</key>
+			<integer>1607170492</integer>
+			<key>sha256</key>
+			<string>95039d77a20e75b428207740d9a8f97b2dce3c89da4b21f1ad862b5997160e0a</string>
+			<key>size</key>
+			<integer>2723</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

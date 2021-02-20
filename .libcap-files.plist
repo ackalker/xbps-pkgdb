@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libcap.so.2.48</string>
+			<key>mtime</key>
+			<integer>1613080552</integer>
+			<key>sha256</key>
+			<string>762e6ce53778f234eb72ffe4e73850e7d1cadb10eb382e9b49abb65b6f88d05a</string>
+			<key>size</key>
+			<integer>34840</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpsx.so.2.48</string>
+			<key>mtime</key>
+			<integer>1613080552</integer>
+			<key>sha256</key>
+			<string>fed6f16aa26d992a076c73d45d03f04545c1a57c5e4096b2dc06479ca68b6b7f</string>
+			<key>size</key>
+			<integer>18264</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libcap.so.2</string>
+			<key>mtime</key>
+			<integer>1613080552</integer>
+			<key>target</key>
+			<string>/usr/lib/libcap.so.2.48</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpsx.so.2</string>
+			<key>mtime</key>
+			<integer>1613080552</integer>
+			<key>target</key>
+			<string>/usr/lib/libpsx.so.2.48</string>
+		</dict>
+	</array>
+</dict>
+</plist>

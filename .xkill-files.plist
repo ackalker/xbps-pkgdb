@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xkill</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/xkill</string>
+			<key>mtime</key>
+			<integer>1520717934</integer>
+			<key>sha256</key>
+			<string>472d081088ede72ecd3693213afe1ffbec6e60325b050e348693ddffad5578ef</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/xkill.1</string>
+			<key>mtime</key>
+			<integer>1520717934</integer>
+			<key>sha256</key>
+			<string>9837e48a730e1f343ed67b7bbcaf031d0ceb11d4fafe7f8ca7ab2f6fd0dc5339</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xkill/COPYING</string>
+			<key>mtime</key>
+			<integer>1520717934</integer>
+			<key>sha256</key>
+			<string>13306c3890e4c8710bc468dee0eba7f9677cd94c7a67d2d81fa932d4f635b21f</string>
+		</dict>
+	</array>
+</dict>
+</plist>

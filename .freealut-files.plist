@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libalut.so.0.1.0</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>c05f05d79faddba82a9d15df1ab74cffda2139951c438ee67f36b5c845edf9ef</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libalut.so</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>target</key>
+			<string>/usr/lib/libalut.so.0.1.0</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libalut.so.0</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>target</key>
+			<string>/usr/lib/libalut.so.0.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

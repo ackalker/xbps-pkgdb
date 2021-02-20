@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man8</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/fsarchiver</string>
+			<key>mtime</key>
+			<integer>1531363611</integer>
+			<key>sha256</key>
+			<string>a51a63498cd578e121d17b4aa5f14b5e3fd38e49420579322fbb097a8cb0580e</string>
+			<key>type</key>
+			<string>files</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man8/fsarchiver.8</string>
+			<key>mtime</key>
+			<integer>1531363611</integer>
+			<key>sha256</key>
+			<string>0a2e33366f07bcd399427e69d72ed5a93bb7aa151f403681c3d96b8091a5514a</string>
+			<key>type</key>
+			<string>files</string>
+		</dict>
+	</array>
+</dict>
+</plist>

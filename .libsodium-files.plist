@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libsodium</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsodium.so.23.3.0</string>
+			<key>mtime</key>
+			<integer>1559671821</integer>
+			<key>sha256</key>
+			<string>d72142c84d59f80ccb19c7921621f6785776b3b294ea1e9a131bb97e39f10821</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libsodium/LICENSE</string>
+			<key>mtime</key>
+			<integer>1559671821</integer>
+			<key>sha256</key>
+			<string>dea1855c9809f3faf22aa4a1fba20ec8af5a5587f23115012e5b98279cedc4af</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsodium.so.23</string>
+			<key>mtime</key>
+			<integer>1559671821</integer>
+			<key>target</key>
+			<string>/usr/lib/libsodium.so.23.3.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

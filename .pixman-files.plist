@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/pixman</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpixman-1.so.0.40.0</string>
+			<key>mtime</key>
+			<integer>1604691353</integer>
+			<key>sha256</key>
+			<string>196075c43d05cb658f46d0b00e4f9067459630fc0c2cf1349c8bf1b416f28079</string>
+			<key>size</key>
+			<integer>682064</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/pixman/LICENSE</string>
+			<key>mtime</key>
+			<integer>1604691353</integer>
+			<key>sha256</key>
+			<string>fac9270f0987b96ff4533fca3548c633e02083cbba4a0172a3b149b2e4019793</string>
+			<key>size</key>
+			<integer>2087</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpixman-1.so.0</string>
+			<key>mtime</key>
+			<integer>1604691353</integer>
+			<key>target</key>
+			<string>/usr/lib/libpixman-1.so.0.40.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

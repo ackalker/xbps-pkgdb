@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libassuan.so.0.8.4</string>
+			<key>mtime</key>
+			<integer>1604629809</integer>
+			<key>sha256</key>
+			<string>f581b3d1cca93f330c70b9fd3ed2fc56658ff966259accc21cc03a79d8872a86</string>
+			<key>size</key>
+			<integer>84184</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libassuan.so.0</string>
+			<key>mtime</key>
+			<integer>1604629809</integer>
+			<key>target</key>
+			<string>/usr/lib/libassuan.so.0.8.4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

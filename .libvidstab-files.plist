@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libvidstab.so.1.1</string>
+			<key>mtime</key>
+			<integer>1503498292</integer>
+			<key>sha256</key>
+			<string>978196973bacb73f74188da561977e06963309af651acc59bec49156d1b700b0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/terminfo</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/terminfo/r</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/terminfo/r/rxvt-unicode</string>
+			<key>mtime</key>
+			<integer>1605382243</integer>
+			<key>sha256</key>
+			<string>9aef1f9e5db383d0abd1e4f23c44b00ed25a7c7ba6dd8da4fc8560669bef4868</string>
+			<key>size</key>
+			<integer>2213</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/terminfo/r/rxvt-unicode-256color</string>
+			<key>mtime</key>
+			<integer>1605382243</integer>
+			<key>sha256</key>
+			<string>0b390be30cbe9dd40af72733eff1cb4d670adcd3d18dbc7ee0e45e87066f2bff</string>
+			<key>size</key>
+			<integer>2239</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/terminfo/r/rxvt-unicode.terminfo</string>
+			<key>mtime</key>
+			<integer>1605382243</integer>
+			<key>sha256</key>
+			<string>daf3c16532de2f3da9833df897ebbf522ca747552535f621ccb527d45ce12ade</string>
+			<key>size</key>
+			<integer>3456</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

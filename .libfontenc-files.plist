@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libfontenc</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libfontenc.so.1.0.0</string>
+			<key>mtime</key>
+			<integer>1550642916</integer>
+			<key>sha256</key>
+			<string>536426f7f2b01e66721048757481c0488308019e0faa6b2914abe72d78028d20</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libfontenc/COPYING</string>
+			<key>mtime</key>
+			<integer>1550642916</integer>
+			<key>sha256</key>
+			<string>a4dda7a643b517794bfa23dc9605da030055df38ac8a5b9e1905e690975a59c4</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libfontenc.so.1</string>
+			<key>mtime</key>
+			<integer>1550642916</integer>
+			<key>target</key>
+			<string>/usr/lib/libfontenc.so.1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

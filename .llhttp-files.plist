@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/llhttp</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libllhttp.so.1.0</string>
+			<key>mtime</key>
+			<integer>1601584156</integer>
+			<key>sha256</key>
+			<string>91e236ede03d37cc7ea148a9d0184f9ff3d1a92ef4e3f4d3bb1967fae9c48294</string>
+			<key>size</key>
+			<integer>42912</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/llhttp/LICENSE-MIT</string>
+			<key>mtime</key>
+			<integer>1601584156</integer>
+			<key>sha256</key>
+			<string>ebca854e0134cd256d673627c20499f42577eb74bacf08b9f25b626a73c91277</string>
+			<key>size</key>
+			<integer>1105</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libllhttp.so.1</string>
+			<key>mtime</key>
+			<integer>1601584156</integer>
+			<key>target</key>
+			<string>/usr/lib/libllhttp.so.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

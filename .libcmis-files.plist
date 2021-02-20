@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libcmis-0.5.so.5.0.0</string>
+			<key>mtime</key>
+			<integer>1579982606</integer>
+			<key>sha256</key>
+			<string>1c43836fa2634ada7db5aef36b7ffdb8041032aaf841aee7dbfb523f3ff133b8</string>
+			<key>size</key>
+			<integer>1349744</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libcmis-c-0.5.so.5.0.0</string>
+			<key>mtime</key>
+			<integer>1579982606</integer>
+			<key>sha256</key>
+			<string>92602a7bce3a4891c02ec3bc49719000c6819b8825ec256bac4e28e51b060c0c</string>
+			<key>size</key>
+			<integer>305248</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libcmis-0.5.so.5</string>
+			<key>mtime</key>
+			<integer>1579982606</integer>
+			<key>target</key>
+			<string>/usr/lib/libcmis-0.5.so.5.0.0</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libcmis-c-0.5.so.5</string>
+			<key>mtime</key>
+			<integer>1579982606</integer>
+			<key>target</key>
+			<string>/usr/lib/libcmis-c-0.5.so.5.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/udev</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/udev/hwdb.d</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/udev/rules.d</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/udev/hwdb.d/20-gphoto.hwdb</string>
+			<key>mtime</key>
+			<integer>1605297193</integer>
+			<key>sha256</key>
+			<string>747b71b444669062f72e0fff65fbdd471321af1db4f5d14aa27fba3e4cb9d189</string>
+			<key>size</key>
+			<integer>209605</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/udev/rules.d/40-gphoto.rules</string>
+			<key>mtime</key>
+			<integer>1605297193</integer>
+			<key>sha256</key>
+			<string>2d53f4cd6a9d83b11ee8159735c7174f7cea4fd74deb709a5201755c0717d054</string>
+			<key>size</key>
+			<integer>5991</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

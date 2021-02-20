@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xrefresh</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/xrefresh</string>
+			<key>mtime</key>
+			<integer>1520941228</integer>
+			<key>sha256</key>
+			<string>17d081ebc635f2b91fd82c34f23f4a59d9bbbe81426ed12f5aff4ccc6f91bfd4</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/xrefresh.1</string>
+			<key>mtime</key>
+			<integer>1520941228</integer>
+			<key>sha256</key>
+			<string>9f86f23dc2626ebe4da191d7c85c88e5fdbe9c851926ca9755f851658cc02c7e</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xrefresh/COPYING</string>
+			<key>mtime</key>
+			<integer>1520941228</integer>
+			<key>sha256</key>
+			<string>4f51c9a91cd277697cbea6604bf4cb240c1ed14cdba82550cb9cac8f1286f663</string>
+		</dict>
+	</array>
+</dict>
+</plist>

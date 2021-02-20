@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr/lib/libportaudio.so.2.0.0</string>
+			<key>mtime</key>
+			<integer>1608522552</integer>
+			<key>sha256</key>
+			<string>7e192ab08a2c762f842b590b1cd2d3c5deb21a82d1df9b18e9b5e6a9960d7daf</string>
+			<key>size</key>
+			<integer>233528</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

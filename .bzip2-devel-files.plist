@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/include</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/include/bzlib.h</string>
+			<key>mtime</key>
+			<integer>1563698344</integer>
+			<key>sha256</key>
+			<string>6ac62e811669598ee30c9e1c379b9e627f6ff17a5a3dc1e0b4fa8b8ea75e580d</string>
+			<key>size</key>
+			<integer>6240</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libbz2.a</string>
+			<key>mtime</key>
+			<integer>1563698344</integer>
+			<key>sha256</key>
+			<string>0e39d12b487b3242b848af17671e1d8426719f58ce154bf8af4cb8e0bdca4e09</string>
+			<key>size</key>
+			<integer>82146</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libbz2.so</string>
+			<key>mtime</key>
+			<integer>1563698344</integer>
+			<key>target</key>
+			<string>/usr/lib/libbz2.so.1.0.8</string>
+		</dict>
+	</array>
+</dict>
+</plist>

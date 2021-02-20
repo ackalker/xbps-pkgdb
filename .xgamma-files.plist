@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xgamma</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/xgamma</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>ec5b83ee3839ef0bb1d129230724c9221625cd0bc5b43a941db6865fae98a156</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xgamma/COPYING</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>78d354d348feaaab8d67a220e84137ec24fece04af4dface2e67132c72e216a2</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/xgamma.1</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>57f86c00ea8fc0061044afd5b91c4fbf01512f25f7d62c48709a72b9c049c905</string>
+		</dict>
+	</array>
+</dict>
+</plist>

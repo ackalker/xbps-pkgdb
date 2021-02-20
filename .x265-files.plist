@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/x265</string>
+			<key>mtime</key>
+			<integer>1592316076</integer>
+			<key>sha256</key>
+			<string>f0e13a89b7d82912835dcedab9a26ce03c757cf31accdf86789b63fe91158e2e</string>
+			<key>size</key>
+			<integer>161936</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libx265.so.192</string>
+			<key>mtime</key>
+			<integer>1592316076</integer>
+			<key>sha256</key>
+			<string>43257988225a29c0edce18e4873cd1b0a21d76881ed6647ed56d6e1634de79d0</string>
+			<key>size</key>
+			<integer>5714880</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

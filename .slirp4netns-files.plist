@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/slirp4netns</string>
+			<key>mtime</key>
+			<integer>1606534413</integer>
+			<key>sha256</key>
+			<string>2117fa74d0ac41aae3e3fb2dc9d98e6cede7bd65832c3666eed0f9436aa9e94b</string>
+			<key>size</key>
+			<integer>72504</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/slirp4netns.1</string>
+			<key>mtime</key>
+			<integer>1606534413</integer>
+			<key>sha256</key>
+			<string>6236de6b497dae56b1d779d60304e2f18a947b17d16eeca17218bf0902cdffb2</string>
+			<key>size</key>
+			<integer>13259</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

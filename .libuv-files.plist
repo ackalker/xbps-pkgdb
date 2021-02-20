@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libuv</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libuv.so.1.0.0</string>
+			<key>mtime</key>
+			<integer>1599932482</integer>
+			<key>sha256</key>
+			<string>6502661ca9c128e8e01122541e9271368ca254efde292086813f1dc597ba69ab</string>
+			<key>size</key>
+			<integer>198672</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libuv/LICENSE</string>
+			<key>mtime</key>
+			<integer>1599932482</integer>
+			<key>sha256</key>
+			<string>6d20216ae022fbeed23916f48508fd807ece3d8464992330643b0e64e5c0c24b</string>
+			<key>size</key>
+			<integer>3143</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libuv.so.1</string>
+			<key>mtime</key>
+			<integer>1599932482</integer>
+			<key>target</key>
+			<string>/usr/lib/libuv.so.1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsoxr-lsr.so.0.1.9</string>
+			<key>mtime</key>
+			<integer>1606624205</integer>
+			<key>sha256</key>
+			<string>49c07addcecb771f797242e6d2e8bdffac7221d5d964a2dc93d347039105d661</string>
+			<key>size</key>
+			<integer>14320</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsoxr.so.0.1.2</string>
+			<key>mtime</key>
+			<integer>1606624205</integer>
+			<key>sha256</key>
+			<string>52da703752a3d8e0138100c7dc3c07706865c3cfa11de3fa71e6367e99711d77</string>
+			<key>size</key>
+			<integer>310248</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsoxr-lsr.so.0</string>
+			<key>mtime</key>
+			<integer>1606624205</integer>
+			<key>target</key>
+			<string>/usr/lib/libsoxr-lsr.so.0.1.9</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsoxr.so.0</string>
+			<key>mtime</key>
+			<integer>1606624205</integer>
+			<key>target</key>
+			<string>/usr/lib/libsoxr.so.0.1.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

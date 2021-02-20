@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libKF5Solid.so.5.79.0</string>
+			<key>mtime</key>
+			<integer>1613763275</integer>
+			<key>sha256</key>
+			<string>e4324caa5797efd4092ca25e3bbffc6493162a02eae8976b5064dfa9b21aed5e</string>
+			<key>size</key>
+			<integer>1042504</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libKF5Solid.so.5</string>
+			<key>mtime</key>
+			<integer>1613763275</integer>
+			<key>target</key>
+			<string>/usr/lib/libKF5Solid.so.5.79.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

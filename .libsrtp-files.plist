@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libsrtp</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsrtp2.so.1</string>
+			<key>mtime</key>
+			<integer>1584829603</integer>
+			<key>sha256</key>
+			<string>9b7a7f1ecfc8719aac916c42b57da49a903fd3f3563dc3d484ca7de6331f02dc</string>
+			<key>size</key>
+			<integer>104592</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libsrtp/LICENSE</string>
+			<key>mtime</key>
+			<integer>1584829603</integer>
+			<key>sha256</key>
+			<string>8e19d42a1eec9561f3f347253ddf2e385c55f392f025bb0fd41b88dbf38db5ae</string>
+			<key>size</key>
+			<integer>1614</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

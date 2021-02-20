@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/fonts</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/fonts/noto</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/noto-fonts-emoji</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/fonts/noto/NotoColorEmoji.ttf</string>
+			<key>mtime</key>
+			<integer>1603291686</integer>
+			<key>sha256</key>
+			<string>02dd5d288f404d51e12eae28e4b77ff7c705047c273e096d3f7fbe4efdd28321</string>
+			<key>size</key>
+			<integer>9723244</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/fonts/noto/NotoEmoji-Regular.ttf</string>
+			<key>mtime</key>
+			<integer>1603291686</integer>
+			<key>sha256</key>
+			<string>415dc6290378574135b64c808dc640c1df7531973290c4970c51fdeb849cb0c5</string>
+			<key>size</key>
+			<integer>418804</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/noto-fonts-emoji/LICENSE</string>
+			<key>mtime</key>
+			<integer>1603291686</integer>
+			<key>sha256</key>
+			<string>6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2</string>
+			<key>size</key>
+			<integer>4301</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

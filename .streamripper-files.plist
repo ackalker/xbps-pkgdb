@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/streamripper</string>
+			<key>mtime</key>
+			<integer>1523890308</integer>
+			<key>sha256</key>
+			<string>78f74e9ee3e73424cffa5eea9931c3ebc70b163862e90bd3ebc863308cb8debb</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/streamripper.1</string>
+			<key>mtime</key>
+			<integer>1523890308</integer>
+			<key>sha256</key>
+			<string>7c595f95dcb8bdca5d4b8f23fdad66a945ab8c7cc5bad21eb952648245b5f438</string>
+		</dict>
+	</array>
+</dict>
+</plist>

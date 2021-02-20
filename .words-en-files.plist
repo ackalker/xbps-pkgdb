@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/dict</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/dict/american-english</string>
+			<key>mtime</key>
+			<integer>1609119075</integer>
+			<key>sha256</key>
+			<string>0dfb14df48a0d39b05212175dc69413d27518692427fa4329d9ffc7117e3521e</string>
+			<key>size</key>
+			<integer>1191359</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/dict/british-english</string>
+			<key>mtime</key>
+			<integer>1609119075</integer>
+			<key>sha256</key>
+			<string>cf86e5923c85e826324704dd37209d94dffe7c64cef839ed976731fc2da59af1</string>
+			<key>size</key>
+			<integer>1189140</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/dict/words</string>
+			<key>mtime</key>
+			<integer>1609119075</integer>
+			<key>target</key>
+			<string>/usr/share/dict/american-english</string>
+		</dict>
+	</array>
+</dict>
+</plist>

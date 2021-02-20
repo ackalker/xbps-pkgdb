@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpotrace.so.0.0.6</string>
+			<key>mtime</key>
+			<integer>1570281948</integer>
+			<key>sha256</key>
+			<string>1bd090a702d66068a4b65eeee5b9d1cef3d0c248ceec4efd2dae52f33e22566d</string>
+			<key>size</key>
+			<integer>34720</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpotrace.so.0</string>
+			<key>mtime</key>
+			<integer>1570281948</integer>
+			<key>target</key>
+			<string>/usr/lib/libpotrace.so.0.0.6</string>
+		</dict>
+	</array>
+</dict>
+</plist>

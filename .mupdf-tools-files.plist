@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/muraster</string>
+			<key>mtime</key>
+			<integer>1605312092</integer>
+			<key>sha256</key>
+			<string>86f7dbe7988baef7375d0ae048af904af1c4d9c3495008fa5c66c7a924bd6a7c</string>
+			<key>size</key>
+			<integer>35851344</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/mutool</string>
+			<key>mtime</key>
+			<integer>1605312092</integer>
+			<key>sha256</key>
+			<string>6a7dc0a4c3eb5cf1f83015c193caea79b6c70dbb1dd0705c3bf00bea86164ce5</string>
+			<key>size</key>
+			<integer>36535984</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/mutool.1</string>
+			<key>mtime</key>
+			<integer>1605312092</integer>
+			<key>sha256</key>
+			<string>940f75d3b64b1310df872ff0da9804c6542cb8e0a2f79f837fd09bcd338886b1</string>
+			<key>size</key>
+			<integer>11848</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/metatypes</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/metatypes/qt5core_metatypes.json</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>sha256</key>
+			<string>c405d07c79b36a808cee762be3652a8571ea6fd7a73f629142dc4bba955d250d</string>
+			<key>size</key>
+			<integer>354195</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/metatypes/qt5gui_metatypes.json</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>sha256</key>
+			<string>e8813cc4b7bcb4f2032190d6b33400ec1ad29f1bc899c6854b13b1fee217de67</string>
+			<key>size</key>
+			<integer>249868</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/metatypes/qt5widgets_metatypes.json</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>sha256</key>
+			<string>cf00dacb091c9ce091bc6ec38383de462e63850b34f6192c61d834d1eed7ce55</string>
+			<key>size</key>
+			<integer>927527</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

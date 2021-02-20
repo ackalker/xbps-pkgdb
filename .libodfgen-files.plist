@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libodfgen-0.1.so.1.0.7</string>
+			<key>mtime</key>
+			<integer>1532190413</integer>
+			<key>sha256</key>
+			<string>ca13c75f546826e44cc59fb53b364932d80619f2b355f35c02a5ec87f6eb13ce</string>
+			<key>type</key>
+			<string>files</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libodfgen-0.1.so.1</string>
+			<key>mtime</key>
+			<integer>1532190413</integer>
+			<key>target</key>
+			<string>/usr/lib/libodfgen-0.1.so.1.0.7</string>
+			<key>type</key>
+			<string>links</string>
+		</dict>
+	</array>
+</dict>
+</plist>

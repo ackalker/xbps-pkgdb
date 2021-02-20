@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/boost</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/boost/LICENSE_1_0.txt</string>
+			<key>mtime</key>
+			<integer>1602352457</integer>
+			<key>sha256</key>
+			<string>c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566</string>
+			<key>size</key>
+			<integer>1338</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

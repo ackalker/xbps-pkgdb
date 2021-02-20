@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libargon2.so.1</string>
+			<key>mtime</key>
+			<integer>1579285837</integer>
+			<key>sha256</key>
+			<string>c0a8d6a11b5448f4e5c32ea83e9335b8576f7780477f988f80e044bb2138b1fc</string>
+			<key>size</key>
+			<integer>34720</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

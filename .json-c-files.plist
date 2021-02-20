@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/json-c</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libjson-c.so.5.1.0</string>
+			<key>mtime</key>
+			<integer>1597311095</integer>
+			<key>sha256</key>
+			<string>45dd0ea996b55ae52e090ffba33111f732514971bb0eae3023a6207a69af1d41</string>
+			<key>size</key>
+			<integer>71960</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/json-c/COPYING</string>
+			<key>mtime</key>
+			<integer>1597311095</integer>
+			<key>sha256</key>
+			<string>74c1e6ca5eba76b54d0ad00d4815c8315c1b3bc45ff99de61d103dc92486284c</string>
+			<key>size</key>
+			<integer>2205</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libjson-c.so.5</string>
+			<key>mtime</key>
+			<integer>1597311095</integer>
+			<key>target</key>
+			<string>/usr/lib/libjson-c.so.5.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

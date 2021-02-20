@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/mksquashfs</string>
+			<key>mtime</key>
+			<integer>1612107318</integer>
+			<key>sha256</key>
+			<string>862808c5538cb8713e26d67eeb90fb550be64e981389f5aafdcecc007eaa5912</string>
+			<key>size</key>
+			<integer>206712</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/unsquashfs</string>
+			<key>mtime</key>
+			<integer>1612107318</integer>
+			<key>sha256</key>
+			<string>9b0a976594303596ce028201fe984e4b5714a045f65d538ddb5bd09e9634a42c</string>
+			<key>size</key>
+			<integer>114712</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/terminfo</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/terminfo/x</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/terminfo/x/xterm-kitty</string>
+			<key>mtime</key>
+			<integer>1608467858</integer>
+			<key>sha256</key>
+			<string>992b0e131bf5a217bcfba8e48be28c7ce31c9b3cf70e4f70a5ed60eee34ec784</string>
+			<key>size</key>
+			<integer>3217</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

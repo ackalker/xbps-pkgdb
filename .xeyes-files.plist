@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xeyes</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/xeyes</string>
+			<key>mtime</key>
+			<integer>1520698422</integer>
+			<key>sha256</key>
+			<string>4d1f46205fe6787992ef50040bd019f9202dd62da46a493eb30c42a801310161</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/xeyes.1</string>
+			<key>mtime</key>
+			<integer>1520698422</integer>
+			<key>sha256</key>
+			<string>2e6d56b473cd3b0427c5402620d99de5675df479bdb8b315ea8ce2b48f831d73</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xeyes/COPYING</string>
+			<key>mtime</key>
+			<integer>1520698422</integer>
+			<key>sha256</key>
+			<string>d8de1de40e16227d1eb4b19e95117ce3f990f71f71df096a2259b0bc9931e042</string>
+		</dict>
+	</array>
+</dict>
+</plist>

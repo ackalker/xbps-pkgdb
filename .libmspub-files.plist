@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libmspub-0.1.so.1.0.4</string>
+			<key>mtime</key>
+			<integer>1590831243</integer>
+			<key>sha256</key>
+			<string>f3c66a531856c12bd8b9670eb3534b64df2d55a2f62d5f4524b3e595832319e5</string>
+			<key>size</key>
+			<integer>407624</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libmspub-0.1.so.1</string>
+			<key>mtime</key>
+			<integer>1590831243</integer>
+			<key>target</key>
+			<string>/usr/lib/libmspub-0.1.so.1.0.4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

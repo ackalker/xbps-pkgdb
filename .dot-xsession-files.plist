@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/libexec</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/xsessions</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/libexec/dot-xsession</string>
+			<key>mtime</key>
+			<integer>1603291686</integer>
+			<key>sha256</key>
+			<string>f7fb9d981bad9cff1158f6c9aa75cb0c467b4de099fe29f947b6b93b2f50d1df</string>
+			<key>size</key>
+			<integer>223</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/xsessions/dot-xsession.desktop</string>
+			<key>mtime</key>
+			<integer>1603291686</integer>
+			<key>sha256</key>
+			<string>e373b84cf065d27c87c1413f63b4acaea1972ace927404dc7916f3d81c32d669</string>
+			<key>size</key>
+			<integer>160</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

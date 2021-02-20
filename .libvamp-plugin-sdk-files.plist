@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libvamp-hostsdk.so.3.10.0</string>
+			<key>mtime</key>
+			<integer>1600968356</integer>
+			<key>sha256</key>
+			<string>e4e7d0194858141351634cc843b7ab760dd6442bde8f2bd7b60d637f49abe381</string>
+			<key>size</key>
+			<integer>247896</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libvamp-sdk.so.2.10.0</string>
+			<key>mtime</key>
+			<integer>1600968356</integer>
+			<key>sha256</key>
+			<string>2888e598166d0ec021e69f250a5c9a333354916b91ffc5331cac618412f1c5fc</string>
+			<key>size</key>
+			<integer>108624</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libvamp-hostsdk.so.3</string>
+			<key>mtime</key>
+			<integer>1600968356</integer>
+			<key>target</key>
+			<string>/usr/lib/libvamp-hostsdk.so.3.10.0</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libvamp-sdk.so.2</string>
+			<key>mtime</key>
+			<integer>1600968356</integer>
+			<key>target</key>
+			<string>/usr/lib/libvamp-sdk.so.2.10.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

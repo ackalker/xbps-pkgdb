@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libmpfr.so.6.1.0</string>
+			<key>mtime</key>
+			<integer>1604044306</integer>
+			<key>sha256</key>
+			<string>c36ff5130b22f5d3105c4e32902de87244f3b0efb80fdd26dd6b5e41c65b0605</string>
+			<key>size</key>
+			<integer>2799208</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libmpfr.so.6</string>
+			<key>mtime</key>
+			<integer>1604044306</integer>
+			<key>target</key>
+			<string>/usr/lib/libmpfr.so.6.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

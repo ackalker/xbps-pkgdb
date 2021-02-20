@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libclang.so.11</string>
+			<key>mtime</key>
+			<integer>1605582857</integer>
+			<key>sha256</key>
+			<string>ffd6731e00a30c0cddac830fd9cdc464834610d3ce1839fe176979f98055c4af</string>
+			<key>size</key>
+			<integer>29980520</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

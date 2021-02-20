@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/gr2fonttest</string>
+			<key>mtime</key>
+			<integer>1587564623</integer>
+			<key>sha256</key>
+			<string>db33e479e93f6d3fe23aed944220817a0dcb92d1377a6a1d1c93426351c2bb6f</string>
+			<key>size</key>
+			<integer>30880</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgraphite2.so.3.2.1</string>
+			<key>mtime</key>
+			<integer>1587564623</integer>
+			<key>sha256</key>
+			<string>0e4cf2e1cf2c112e16363ecf8d2517b30aaa110a2cf1ace5135b314b04148600</string>
+			<key>size</key>
+			<integer>165872</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgraphite2.so.3</string>
+			<key>mtime</key>
+			<integer>1587564623</integer>
+			<key>target</key>
+			<string>/usr/lib/libgraphite2.so.3.2.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

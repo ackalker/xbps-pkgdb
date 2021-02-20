@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libpciaccess</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpciaccess.so.0.11.1</string>
+			<key>mtime</key>
+			<integer>1563690195</integer>
+			<key>sha256</key>
+			<string>b414621ef3b23d2a5363b628bc37b80fd18c7f97b65a33abcb0a4357698b4be3</string>
+			<key>size</key>
+			<integer>38896</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libpciaccess/COPYING</string>
+			<key>mtime</key>
+			<integer>1563690195</integer>
+			<key>sha256</key>
+			<string>47012fd746980d1712ac4f3841ab6164bda1d2b84880760e45dbe1e1dc07f608</string>
+			<key>size</key>
+			<integer>4845</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpciaccess.so.0</string>
+			<key>mtime</key>
+			<integer>1563690195</integer>
+			<key>target</key>
+			<string>/usr/lib/libpciaccess.so.0.11.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

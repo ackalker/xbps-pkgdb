@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/fatrace</string>
+			<key>mtime</key>
+			<integer>1572881614</integer>
+			<key>sha256</key>
+			<string>35001f97f589dc2565988cae73ccfc58f1bb4f5f661f8acb37a0fa9eb894651f</string>
+			<key>size</key>
+			<integer>14736</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/power-usage-report</string>
+			<key>mtime</key>
+			<integer>1572881614</integer>
+			<key>sha256</key>
+			<string>75339b2837e47ed5be2d948456b06c51a784240a27472115b19297a161976cfd</string>
+			<key>size</key>
+			<integer>6072</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/fatrace.1</string>
+			<key>mtime</key>
+			<integer>1572881614</integer>
+			<key>sha256</key>
+			<string>77ab0ce086f74291e2e84f4d4a83661a1f8db2d570e324d617f6e53035bad55a</string>
+			<key>size</key>
+			<integer>3111</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

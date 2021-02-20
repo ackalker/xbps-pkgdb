@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0/Poppler-0.18.typelib</string>
+			<key>mtime</key>
+			<integer>1601180520</integer>
+			<key>sha256</key>
+			<string>5c923c5a026753b90d1f59f79239f97eb3350faa598fcf80f8cce343f0c7348a</string>
+			<key>size</key>
+			<integer>68480</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpoppler-glib.so.8.19.0</string>
+			<key>mtime</key>
+			<integer>1601180520</integer>
+			<key>sha256</key>
+			<string>92b57a5bfcb09f404e8ff5a47971a5d6f231405d872d0e5881aa042fefbc8ba4</string>
+			<key>size</key>
+			<integer>391152</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpoppler-glib.so.8</string>
+			<key>mtime</key>
+			<integer>1601180520</integer>
+			<key>target</key>
+			<string>/usr/lib/libpoppler-glib.so.8.19.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

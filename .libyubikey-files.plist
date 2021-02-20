@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libyubikey</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libyubikey.so.0.1.7</string>
+			<key>mtime</key>
+			<integer>1542098681</integer>
+			<key>sha256</key>
+			<string>55e404bda073054f17ca586e8f4d7919ff90c76ecddd5219ebbdcaad53f60cca</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libyubikey/LICENSE</string>
+			<key>mtime</key>
+			<integer>1542098681</integer>
+			<key>sha256</key>
+			<string>290e63342185b900dfd4d61affb2476886592c74789cf694ed8356d264ebcdcd</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libyubikey.so.0</string>
+			<key>mtime</key>
+			<integer>1542098681</integer>
+			<key>target</key>
+			<string>/usr/lib/libyubikey.so.0.1.7</string>
+		</dict>
+	</array>
+</dict>
+</plist>

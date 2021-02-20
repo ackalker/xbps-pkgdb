@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpcsclite.so.1.0.0</string>
+			<key>mtime</key>
+			<integer>1592874608</integer>
+			<key>sha256</key>
+			<string>1dba95e69254e31eee23887bb953af0acb0648d6d8fb462891cbbc2d137b40e9</string>
+			<key>size</key>
+			<integer>47080</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpcscspy.so.0.0.0</string>
+			<key>mtime</key>
+			<integer>1592874608</integer>
+			<key>sha256</key>
+			<string>ccf4c188a0b67191a9e006a914eb0dd31a5ff29d84f266a21d53f39379d01f50</string>
+			<key>size</key>
+			<integer>18512</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpcsclite.so.1</string>
+			<key>mtime</key>
+			<integer>1592874608</integer>
+			<key>target</key>
+			<string>/usr/lib/libpcsclite.so.1.0.0</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpcscspy.so.0</string>
+			<key>mtime</key>
+			<integer>1592874608</integer>
+			<key>target</key>
+			<string>/usr/lib/libpcscspy.so.0.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

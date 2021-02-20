@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/gpgme-json</string>
+			<key>mtime</key>
+			<integer>1613080552</integer>
+			<key>sha256</key>
+			<string>5b7040ef2ed210970b500bf422da0fb27b58387c19fa1f8c8f1751701078d14d</string>
+			<key>size</key>
+			<integer>84280</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/gpgme-tool</string>
+			<key>mtime</key>
+			<integer>1613080552</integer>
+			<key>sha256</key>
+			<string>fab6184da0f1ad8183ecce150c3d008ee8da67c8f45a60e739dc2eab02567c68</string>
+			<key>size</key>
+			<integer>80328</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/python3.9</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/python3.9/site-packages</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/python3.9/site-packages/Brlapi-0.8.0-py3.9.egg-info</string>
+			<key>mtime</key>
+			<integer>1604419496</integer>
+			<key>sha256</key>
+			<string>236946f8b2f1c77fcc0e6dd5e60761ae388e75a3ef30f04784e527bccec60f4b</string>
+			<key>size</key>
+			<integer>242</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/python3.9/site-packages/brlapi.so</string>
+			<key>mtime</key>
+			<integer>1604419496</integer>
+			<key>sha256</key>
+			<string>8fcef5a4b27bb57b54e89e14e37f13948f4f8f56000662b57da59a9ea3541efc</string>
+			<key>size</key>
+			<integer>282536</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

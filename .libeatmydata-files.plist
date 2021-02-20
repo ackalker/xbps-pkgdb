@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/libexec</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/eatmydata</string>
+			<key>mtime</key>
+			<integer>1599158217</integer>
+			<key>sha256</key>
+			<string>0de85bbfe476893eb2e9d066262b3d6a17a3ea0181c9dc4333cda87e640d41c5</string>
+			<key>size</key>
+			<integer>1430</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libeatmydata.so</string>
+			<key>mtime</key>
+			<integer>1599158217</integer>
+			<key>sha256</key>
+			<string>dce6e055019c4fd1a1c5d400b82964f397fe8fea1f2bb815037d3de9d4fd1535</string>
+			<key>size</key>
+			<integer>14232</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/libexec/eatmydata.sh</string>
+			<key>mtime</key>
+			<integer>1599158217</integer>
+			<key>sha256</key>
+			<string>419da197886eef6b48e211620b1a25c46b3da94253e813d448fcd750bef49f65</string>
+			<key>size</key>
+			<integer>2168</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

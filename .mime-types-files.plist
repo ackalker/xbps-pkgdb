@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conf_files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/etc/mime.types</string>
+			<key>mtime</key>
+			<integer>1606625769</integer>
+			<key>sha256</key>
+			<string>0bde8ace73d58897e85c82eb96690bbfd1a4231949d3523d5950ba1910b08892</string>
+			<key>size</key>
+			<integer>65355</integer>
+		</dict>
+	</array>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/etc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libXfont2</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXfont2.so.2.0.0</string>
+			<key>mtime</key>
+			<integer>1570189030</integer>
+			<key>sha256</key>
+			<string>b902f18466a99d01d5d0f7e0791be79f76875f8310e6dbe0924515e6478e90fd</string>
+			<key>size</key>
+			<integer>234920</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libXfont2/COPYING</string>
+			<key>mtime</key>
+			<integer>1570189030</integer>
+			<key>sha256</key>
+			<string>97e413bb4962bbb5773085cd5405502bf1d4eadeaf98ff5be015eacacc840462</string>
+			<key>size</key>
+			<integer>13424</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXfont2.so.2</string>
+			<key>mtime</key>
+			<integer>1570189030</integer>
+			<key>target</key>
+			<string>/usr/lib/libXfont2.so.2.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

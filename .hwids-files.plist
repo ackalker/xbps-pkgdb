@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/hwdata</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/hwdata/pci.ids</string>
+			<key>mtime</key>
+			<integer>1607647978</integer>
+			<key>sha256</key>
+			<string>f939b4f582f55d4b388c65a7aab725b2eed49a3f66ca3a89afeb94bc95fe48fd</string>
+			<key>size</key>
+			<integer>1241757</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/hwdata/sdio.ids</string>
+			<key>mtime</key>
+			<integer>1607647978</integer>
+			<key>sha256</key>
+			<string>8701033c5cb8c03ac897f7e1c4013a6654cac82210c7d71e3aa9637db294f007</string>
+			<key>size</key>
+			<integer>2162</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/hwdata/usb.ids</string>
+			<key>mtime</key>
+			<integer>1607647978</integer>
+			<key>sha256</key>
+			<string>16256ea6d8bb10ed5731bfca79ced76203376100d74314dd99a6e34313d9f1f0</string>
+			<key>size</key>
+			<integer>709065</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

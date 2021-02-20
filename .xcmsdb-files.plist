@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xcmsdb</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/xcmsdb</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>13e8bfd893e92eaf4125f11537c50567b0fd6843a400f1241da02ee102441f7e</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xcmsdb/COPYING</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>c3bd4ac91beb08fee5272b17a3ddee8d2791cc5eaee5bce5271042a45fa4fa6a</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/xcmsdb.1</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>db2fd1866b8b3409e5c9c4655c75afd235973e364c52bdcee24b8c5d627969b6</string>
+		</dict>
+	</array>
+</dict>
+</plist>

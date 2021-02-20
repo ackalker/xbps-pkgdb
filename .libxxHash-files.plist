@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxxhash.so.0.8.0</string>
+			<key>mtime</key>
+			<integer>1596546661</integer>
+			<key>sha256</key>
+			<string>b353d955cd55b5f5bd36e6018f7515c59329c5cd17f1655c836938609a82bb96</string>
+			<key>size</key>
+			<integer>42912</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxxhash.so.0</string>
+			<key>mtime</key>
+			<integer>1596546661</integer>
+			<key>target</key>
+			<string>/usr/lib/libxxhash.so.0.8.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

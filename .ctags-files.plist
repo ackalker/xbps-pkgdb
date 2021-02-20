@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/ctags</string>
+			<key>mtime</key>
+			<integer>1543570122</integer>
+			<key>sha256</key>
+			<string>35fea97a154b550fcbbb9647279215e38698afe0f0bd0a1d97889a37dc3fd92f</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/ctags.1</string>
+			<key>mtime</key>
+			<integer>1543570122</integer>
+			<key>sha256</key>
+			<string>2ce18a524a99ab7c76be5cecc501f31e1413f31675498987349a0def46250a84</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0/GExiv2-0.10.typelib</string>
+			<key>mtime</key>
+			<integer>1601576257</integer>
+			<key>sha256</key>
+			<string>77bebdb3659cee900851509ddf8ce00a6a78576f3c5f16263634c88e9478ad72</string>
+			<key>size</key>
+			<integer>12212</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgexiv2.so.2.0.0</string>
+			<key>mtime</key>
+			<integer>1601576257</integer>
+			<key>sha256</key>
+			<string>4ee249ad5d6880d2eabfa4c74bd00f2d696284ee3adea20361c93cc3e96f381d</string>
+			<key>size</key>
+			<integer>137320</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgexiv2.so.2</string>
+			<key>mtime</key>
+			<integer>1601576257</integer>
+			<key>target</key>
+			<string>/usr/lib/libgexiv2.so.2.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

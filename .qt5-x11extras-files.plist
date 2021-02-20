@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libQt5X11Extras.so.5.15.2</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>sha256</key>
+			<string>7fddcd723ddc249e5e9b1099d947121cd6a6338f3a7f030d65a34a1798de6aaa</string>
+			<key>size</key>
+			<integer>22600</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libQt5X11Extras.so.5</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>target</key>
+			<string>/usr/lib/libQt5X11Extras.so.5.15.2</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libQt5X11Extras.so.5.15</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>target</key>
+			<string>/usr/lib/libQt5X11Extras.so.5.15.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpipeline.so.1.5.3</string>
+			<key>mtime</key>
+			<integer>1598027429</integer>
+			<key>sha256</key>
+			<string>87ebe759019f8fa7c5c949912215cc0791060ae67b4368464a4f6e40ba463b4a</string>
+			<key>size</key>
+			<integer>63400</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libpipeline.so.1</string>
+			<key>mtime</key>
+			<integer>1598027429</integer>
+			<key>target</key>
+			<string>/usr/lib/libpipeline.so.1.5.3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

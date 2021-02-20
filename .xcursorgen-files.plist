@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xcursorgen</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/xcursorgen</string>
+			<key>mtime</key>
+			<integer>1546874422</integer>
+			<key>sha256</key>
+			<string>a491badcb070e29a885d472bca80c857523bb5290806189d817f3efb1f7074f7</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xcursorgen/COPYING</string>
+			<key>mtime</key>
+			<integer>1546874422</integer>
+			<key>sha256</key>
+			<string>8c773336b654442ac8018715a52be1a8254895c57c898d5387016e9488cc2009</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/xcursorgen.1</string>
+			<key>mtime</key>
+			<integer>1546874422</integer>
+			<key>sha256</key>
+			<string>da3ab414315fd0c521761155d249dbdc97269604856e82b984fe90b26a42321d</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xcb-util-cursor</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxcb-cursor.so.0.0.0</string>
+			<key>mtime</key>
+			<integer>1463066101</integer>
+			<key>sha256</key>
+			<string>a97d6fb9182e456f23c5a6c21ed1f55347dc17816f31066fba5309278268961d</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xcb-util-cursor/COPYING</string>
+			<key>mtime</key>
+			<integer>1463066101</integer>
+			<key>sha256</key>
+			<string>0dde91ae1d443105dc9e13cbaed6674c36683b7095836ad9ddfce26be270aad5</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxcb-cursor.so.0</string>
+			<key>mtime</key>
+			<integer>1463066101</integer>
+			<key>target</key>
+			<string>/usr/lib/libxcb-cursor.so.0.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

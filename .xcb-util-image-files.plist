@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxcb-image.so.0.0.0</string>
+			<key>mtime</key>
+			<integer>1543599822</integer>
+			<key>sha256</key>
+			<string>1596a5fad6f5cd8b81d24a1052c145439a416027c6ac1bef7019953159d032e8</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxcb-image.so.0</string>
+			<key>mtime</key>
+			<integer>1543599822</integer>
+			<key>target</key>
+			<string>/usr/lib/libxcb-image.so.0.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

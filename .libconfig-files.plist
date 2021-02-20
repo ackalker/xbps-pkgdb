@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/cmake</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/cmake/libconfig</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/cmake/libconfig++</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/cmake/libconfig/libconfigConfig.cmake</string>
+			<key>mtime</key>
+			<integer>1540643477</integer>
+			<key>sha256</key>
+			<string>f4a520777e2c919c98b6abbb3213b17d361cfad6dc2ddd7aa524aaeae8481194</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/cmake/libconfig++/libconfig++Config.cmake</string>
+			<key>mtime</key>
+			<integer>1540643477</integer>
+			<key>sha256</key>
+			<string>6eb70553fbf11511dc60d34ae30440c29237b7e7291dc1691dc7081a51dc7160</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libconfig.so.11.0.2</string>
+			<key>mtime</key>
+			<integer>1540643477</integer>
+			<key>sha256</key>
+			<string>2d7611eb02794c9a30f68191a01374772ad534444df8739a690f83916fd0edaf</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libconfig.so.11</string>
+			<key>mtime</key>
+			<integer>1540643477</integer>
+			<key>target</key>
+			<string>/usr/lib/libconfig.so.11.0.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

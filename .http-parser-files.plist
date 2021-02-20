@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/http-parser</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libhttp_parser.so.2.9.4</string>
+			<key>mtime</key>
+			<integer>1587390406</integer>
+			<key>sha256</key>
+			<string>e27a77f40c64e370de111999fac6f8d1364a1f713fa2c8f64858e45b01b9bf29</string>
+			<key>size</key>
+			<integer>42992</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/http-parser/LICENSE-MIT</string>
+			<key>mtime</key>
+			<integer>1587390406</integer>
+			<key>sha256</key>
+			<string>79e6ba8b687cb54786207342b9b6fcee0ac10218453ed9009b84d949b2233cc0</string>
+			<key>size</key>
+			<integer>1077</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libhttp_parser.so.2.9</string>
+			<key>mtime</key>
+			<integer>1587390406</integer>
+			<key>target</key>
+			<string>/usr/lib/libhttp_parser.so.2.9.4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

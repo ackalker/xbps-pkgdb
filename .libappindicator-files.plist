@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0/AppIndicator3-0.1.typelib</string>
+			<key>mtime</key>
+			<integer>1569408623</integer>
+			<key>sha256</key>
+			<string>2240ec38eea226fbe47a957259b83558cfc922177896cc289f8d9164c03a66a1</string>
+			<key>size</key>
+			<integer>7232</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libappindicator3.so.1.0.0</string>
+			<key>mtime</key>
+			<integer>1569408623</integer>
+			<key>sha256</key>
+			<string>e25c3b5bbdd71d48aee00dfc67fbc2e60319cdd18c9896e0731b0767fbb9ba9c</string>
+			<key>size</key>
+			<integer>55296</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libappindicator3.so.1</string>
+			<key>mtime</key>
+			<integer>1569408623</integer>
+			<key>target</key>
+			<string>/usr/lib/libappindicator3.so.1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

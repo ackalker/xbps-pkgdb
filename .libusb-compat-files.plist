@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libusb-0.1.so.4.4.4</string>
+			<key>mtime</key>
+			<integer>1542728314</integer>
+			<key>sha256</key>
+			<string>0647beae0da74606c28cb1a5bec7a984a5a1cfff0cba7f5e432b76b7c16dcdca</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libusb-0.1.so.4</string>
+			<key>mtime</key>
+			<integer>1542728314</integer>
+			<key>target</key>
+			<string>/usr/lib/libusb-0.1.so.4.4.4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

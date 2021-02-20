@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/qca-qt5</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/qca-qt5/crypto</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/qca-qt5/crypto/libqca-ossl.so</string>
+			<key>mtime</key>
+			<integer>1597435795</integer>
+			<key>sha256</key>
+			<string>bfa3fa161590c8a982c87c46d6d5bc0d038b4d2636a4a7c58b73e4c1611739c7</string>
+			<key>size</key>
+			<integer>370904</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

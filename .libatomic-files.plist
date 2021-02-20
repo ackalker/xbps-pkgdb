@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libatomic.so.1.2.0</string>
+			<key>mtime</key>
+			<integer>1613687104</integer>
+			<key>sha256</key>
+			<string>d1cddf588dde6a14cc74b499bea3c6860309641b5a8416e024f5d93064e3f388</string>
+			<key>size</key>
+			<integer>30880</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libatomic.so.1</string>
+			<key>mtime</key>
+			<integer>1613687104</integer>
+			<key>target</key>
+			<string>/usr/lib/libatomic.so.1.2.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

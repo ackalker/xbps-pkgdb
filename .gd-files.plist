@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/gd</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgd.so.3.0.9</string>
+			<key>mtime</key>
+			<integer>1613081418</integer>
+			<key>sha256</key>
+			<string>ee0c87cd135308ded53776fff78a30a5dff2c751a4e4bd19dde19eac5e82bfec</string>
+			<key>size</key>
+			<integer>410312</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/gd/COPYING</string>
+			<key>mtime</key>
+			<integer>1613081418</integer>
+			<key>sha256</key>
+			<string>4d80b4af6c38d7a65128c881623dee2a5daee6b3a6ccab74a5cdfa0dfda96da7</string>
+			<key>size</key>
+			<integer>2970</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgd.so.3</string>
+			<key>mtime</key>
+			<integer>1613081418</integer>
+			<key>target</key>
+			<string>/usr/lib/libgd.so.3.0.9</string>
+		</dict>
+	</array>
+</dict>
+</plist>

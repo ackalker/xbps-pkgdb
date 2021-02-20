@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man3</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl/AnyEvent</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man3/AnyEvent::I3.3p</string>
+			<key>mtime</key>
+			<integer>1603909533</integer>
+			<key>sha256</key>
+			<string>708964f528c8ac673ad5cc09dbde3df0f8b90c6e9d9b40fe9db239f8d22773b5</string>
+			<key>size</key>
+			<integer>9599</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl/AnyEvent/I3.pm</string>
+			<key>mtime</key>
+			<integer>1603909533</integer>
+			<key>sha256</key>
+			<string>d6a80fe81b888fafa5be4aae7e2a707735cec1194f0881a47caab57e7c0576f5</string>
+			<key>size</key>
+			<integer>14375</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

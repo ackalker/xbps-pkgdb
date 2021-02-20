@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libprotobuf24</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libprotobuf.so.24.0.0</string>
+			<key>mtime</key>
+			<integer>1602851131</integer>
+			<key>sha256</key>
+			<string>dc439ee03de870a7371c472ad5373a9e34275864e8e33a21debb51c605ea6762</string>
+			<key>size</key>
+			<integer>3290624</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libprotobuf24/LICENSE</string>
+			<key>mtime</key>
+			<integer>1602851131</integer>
+			<key>sha256</key>
+			<string>6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d</string>
+			<key>size</key>
+			<integer>1732</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libprotobuf.so.24</string>
+			<key>mtime</key>
+			<integer>1602851131</integer>
+			<key>target</key>
+			<string>/usr/lib/libprotobuf.so.24.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

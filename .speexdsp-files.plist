@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/speexdsp</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libspeexdsp.so.1.5.1</string>
+			<key>mtime</key>
+			<integer>1563696974</integer>
+			<key>sha256</key>
+			<string>30046da4381462ea90bc1399f935c47624fede61f267c2ddeee4c7e99ac5cb2a</string>
+			<key>size</key>
+			<integer>79856</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/speexdsp/COPYING</string>
+			<key>mtime</key>
+			<integer>1563696974</integer>
+			<key>sha256</key>
+			<string>671bb5d8fd3c6b05a2e831d90f978ac27965c92bd8ea6d16b3df76e3440c0e9f</string>
+			<key>size</key>
+			<integer>1774</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libspeexdsp.so.1</string>
+			<key>mtime</key>
+			<integer>1563696974</integer>
+			<key>target</key>
+			<string>/usr/lib/libspeexdsp.so.1.5.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

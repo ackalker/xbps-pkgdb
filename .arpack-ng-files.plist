@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/arpack-ng</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libarpack.so.2.1.0</string>
+			<key>mtime</key>
+			<integer>1609980275</integer>
+			<key>sha256</key>
+			<string>ea736e5d066fda2a7c725a7651dfa129d6e3abc4ee0c8687d8cfbf4bf9799eb0</string>
+			<key>size</key>
+			<integer>292960</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/arpack-ng/COPYING</string>
+			<key>mtime</key>
+			<integer>1609980275</integer>
+			<key>sha256</key>
+			<string>0926566f9f406178d1214f8cc796e166b1213dd7c05e0c5b461a8b8ac9e50bbe</string>
+			<key>size</key>
+			<integer>1892</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libarpack.so.2</string>
+			<key>mtime</key>
+			<integer>1609980275</integer>
+			<key>target</key>
+			<string>/usr/lib/libarpack.so.2.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

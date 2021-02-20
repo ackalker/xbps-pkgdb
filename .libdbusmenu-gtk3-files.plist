@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0/DbusmenuGtk3-0.4.typelib</string>
+			<key>mtime</key>
+			<integer>1608166267</integer>
+			<key>sha256</key>
+			<string>116932bcb739a6dea3f037e4295957d1744d7ff2f86fb7c1a6c295336933556f</string>
+			<key>size</key>
+			<integer>4100</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libdbusmenu-gtk3.so.4.0.12</string>
+			<key>mtime</key>
+			<integer>1608166267</integer>
+			<key>sha256</key>
+			<string>13b7d12268b0b48d39969396370c7b557abd0523c06aa6e2167e03cfc6b771cc</string>
+			<key>size</key>
+			<integer>88048</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libdbusmenu-gtk3.so.4</string>
+			<key>mtime</key>
+			<integer>1608166267</integer>
+			<key>target</key>
+			<string>/usr/lib/libdbusmenu-gtk3.so.4.0.12</string>
+		</dict>
+	</array>
+</dict>
+</plist>

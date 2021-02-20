@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/fuse-overlayfs</string>
+			<key>mtime</key>
+			<integer>1613333129</integer>
+			<key>sha256</key>
+			<string>6f6ab2c60fb11178d59e5fdd724cef740366c00552a10f728057f5a095a62472</string>
+			<key>size</key>
+			<integer>96872</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/fuse-overlayfs.1</string>
+			<key>mtime</key>
+			<integer>1613333129</integer>
+			<key>sha256</key>
+			<string>a28d4fc29336152d13cf3b34cb831ca23371f257ee288d255f686ef22c229faf</string>
+			<key>size</key>
+			<integer>2982</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

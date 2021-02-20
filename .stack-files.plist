@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/stack</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/stack</string>
+			<key>mtime</key>
+			<integer>1603251519</integer>
+			<key>sha256</key>
+			<string>ef8f554327b3eac4b99111e156d1ff72cb86280e7ea04131505c92d8a3b7c0a4</string>
+			<key>size</key>
+			<integer>56177384</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/stack/LICENSE</string>
+			<key>mtime</key>
+			<integer>1603251519</integer>
+			<key>sha256</key>
+			<string>b4cbfecbd0d50b0117f0759f618bb68b1a0e6ed3d5acb1523d17d08c721233b5</string>
+			<key>size</key>
+			<integer>1497</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

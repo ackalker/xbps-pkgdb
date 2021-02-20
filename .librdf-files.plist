@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+			<key>type</key>
+			<string>dirs</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/librdf.so.0.0.0</string>
+			<key>mtime</key>
+			<integer>1532190413</integer>
+			<key>sha256</key>
+			<string>eb3981e5713fe37616d75a6c6bd80597c4a6b70c8344ffc8d96172b97dc80766</string>
+			<key>type</key>
+			<string>files</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/librdf.so.0</string>
+			<key>mtime</key>
+			<integer>1532190413</integer>
+			<key>target</key>
+			<string>/usr/lib/librdf.so.0.0.0</string>
+			<key>type</key>
+			<string>links</string>
+		</dict>
+	</array>
+</dict>
+</plist>

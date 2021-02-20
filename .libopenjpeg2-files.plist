@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libopenjp2.so.2.4.0</string>
+			<key>mtime</key>
+			<integer>1611611673</integer>
+			<key>sha256</key>
+			<string>7b3ac25c46a447378095789a992c8ef1b611d448e9b3f6e86a66150c7cc36326</string>
+			<key>size</key>
+			<integer>382960</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libopenjp2.so.7</string>
+			<key>mtime</key>
+			<integer>1611611673</integer>
+			<key>target</key>
+			<string>/usr/lib/libopenjp2.so.2.4.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

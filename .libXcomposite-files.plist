@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXcomposite.so.1.0.0</string>
+			<key>mtime</key>
+			<integer>1552268194</integer>
+			<key>sha256</key>
+			<string>ace1f2cf8f3237908476f057d5642048abf8a3dfca03348f73422a833f98e55e</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXcomposite.so.1</string>
+			<key>mtime</key>
+			<integer>1552268194</integer>
+			<key>target</key>
+			<string>/usr/lib/libXcomposite.so.1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

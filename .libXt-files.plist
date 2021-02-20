@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libXt</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXt.so.6.0.0</string>
+			<key>mtime</key>
+			<integer>1561529706</integer>
+			<key>sha256</key>
+			<string>df818d131b7aee80a459aba854dd1f3043819525596f155eeb452dabcde7fa3c</string>
+			<key>size</key>
+			<integer>426112</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libXt/COPYING</string>
+			<key>mtime</key>
+			<integer>1561529706</integer>
+			<key>sha256</key>
+			<string>a2866ccc0b1745149e4a2258d934314d40cbb43bd8318c6fa597f233995b0a81</string>
+			<key>size</key>
+			<integer>6743</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXt.so.6</string>
+			<key>mtime</key>
+			<integer>1561529706</integer>
+			<key>target</key>
+			<string>/usr/lib/libXt.so.6.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

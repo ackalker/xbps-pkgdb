@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xcb-util-xrm</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxcb-xrm.so.0.0.0</string>
+			<key>mtime</key>
+			<integer>1522300233</integer>
+			<key>sha256</key>
+			<string>0d1fdebce26101860838db9e437f1343edc7c428e26ef596eb5baad5b8b803c9</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xcb-util-xrm/COPYING</string>
+			<key>mtime</key>
+			<integer>1522300233</integer>
+			<key>sha256</key>
+			<string>b6385a40be0fd6ff0ccf26a41c7aecf4eb7cc6f05c91b44552f06020450b1def</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxcb-xrm.so.0</string>
+			<key>mtime</key>
+			<integer>1522300233</integer>
+			<key>target</key>
+			<string>/usr/lib/libxcb-xrm.so.0.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

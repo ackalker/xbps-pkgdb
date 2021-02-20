@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0/GUPnPIgd-1.0.typelib</string>
+			<key>mtime</key>
+			<integer>1556531157</integer>
+			<key>sha256</key>
+			<string>6a6b266d7def2c54fedcfc282f25e2e7a195bd68dd84c244b836a82ec6220052</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgupnp-igd-1.0.so.4.2.0</string>
+			<key>mtime</key>
+			<integer>1556531157</integer>
+			<key>sha256</key>
+			<string>6a2986eab1b37afba0ea47a925ba8e00e0490227709d215a51c8481e3c813b0b</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgupnp-igd-1.0.so.4</string>
+			<key>mtime</key>
+			<integer>1556531157</integer>
+			<key>target</key>
+			<string>/usr/lib/libgupnp-igd-1.0.so.4.2.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

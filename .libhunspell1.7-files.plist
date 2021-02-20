@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libhunspell-1.7.so.0.0.1</string>
+			<key>mtime</key>
+			<integer>1578297700</integer>
+			<key>sha256</key>
+			<string>0c98f76aedc8581dfb4be98c2cf1dcf15bce6a0815ad8602a4df1eeeb55f1bbd</string>
+			<key>size</key>
+			<integer>446112</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libhunspell-1.7.so.0</string>
+			<key>mtime</key>
+			<integer>1578297700</integer>
+			<key>target</key>
+			<string>/usr/lib/libhunspell-1.7.so.0.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xlsatoms</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/xlsatoms</string>
+			<key>mtime</key>
+			<integer>1551075635</integer>
+			<key>sha256</key>
+			<string>e8692deaab7676be25ab6c7ad3aa0866d99b2c2b5dbb0aec5ac05138584bd35d</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xlsatoms/COPYING</string>
+			<key>mtime</key>
+			<integer>1551075635</integer>
+			<key>sha256</key>
+			<string>f0a362fc1b8e788845b1c0ad7ba9ade58fdfb73da750c3b9780db5d70b947657</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/xlsatoms.1</string>
+			<key>mtime</key>
+			<integer>1551075635</integer>
+			<key>sha256</key>
+			<string>bfd4c8df0aa40278db9ab6b048766126571e2bf161c9cc4b8d6f3dab248237fc</string>
+		</dict>
+	</array>
+</dict>
+</plist>

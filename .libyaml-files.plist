@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libyaml</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libyaml-0.so.2.0.9</string>
+			<key>mtime</key>
+			<integer>1594147931</integer>
+			<key>sha256</key>
+			<string>3d0c67f1f8415981b1af3f39a2762a3bff9f43a7d6151673d54fde0a41ddc63f</string>
+			<key>size</key>
+			<integer>137120</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libyaml/License</string>
+			<key>mtime</key>
+			<integer>1594147931</integer>
+			<key>sha256</key>
+			<string>c40112449f254b9753045925248313e9270efa36d226b22d82d4cc6c43c57f29</string>
+			<key>size</key>
+			<integer>1101</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libyaml-0.so.2</string>
+			<key>mtime</key>
+			<integer>1594147931</integer>
+			<key>target</key>
+			<string>/usr/lib/libyaml-0.so.2.0.9</string>
+		</dict>
+	</array>
+</dict>
+</plist>

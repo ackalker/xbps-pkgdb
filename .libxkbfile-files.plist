@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libxkbfile</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxkbfile.so.1.0.2</string>
+			<key>mtime</key>
+			<integer>1553030435</integer>
+			<key>sha256</key>
+			<string>4f8a5983489c28e7bf49e4b17f95a3571a972e91747d69bf12e2d9533f980ed6</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libxkbfile/COPYING</string>
+			<key>mtime</key>
+			<integer>1553030435</integer>
+			<key>sha256</key>
+			<string>e1b3fdad8037ab3f986ef9caaa7c8da47d8d55875e680c7d6011f6c07363ea7c</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxkbfile.so.1</string>
+			<key>mtime</key>
+			<integer>1553030435</integer>
+			<key>target</key>
+			<string>/usr/lib/libxkbfile.so.1.0.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

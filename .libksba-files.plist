@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/info</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libksba.so.8.13.0</string>
+			<key>mtime</key>
+			<integer>1606108668</integer>
+			<key>sha256</key>
+			<string>4c8215b423596375a832de31770edd4035515574b3f4fd57603f0164643099c5</string>
+			<key>size</key>
+			<integer>264272</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/info/ksba.info</string>
+			<key>mtime</key>
+			<integer>1606108668</integer>
+			<key>sha256</key>
+			<string>8dd4e058a6c1150b5be89bb52e99a883acb334b04231e3ff1719aba7c36806fe</string>
+			<key>size</key>
+			<integer>86566</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libksba.so.8</string>
+			<key>mtime</key>
+			<integer>1606108668</integer>
+			<key>target</key>
+			<string>/usr/lib/libksba.so.8.13.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

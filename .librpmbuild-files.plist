@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/librpmbuild.so.9.1.2</string>
+			<key>mtime</key>
+			<integer>1608233842</integer>
+			<key>sha256</key>
+			<string>ac6b07453fe2256027263b5ed6da32d341c41eff30c22dbd8c6d7657d0ebb884</string>
+			<key>size</key>
+			<integer>191672</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/librpmbuild.so.9</string>
+			<key>mtime</key>
+			<integer>1608233842</integer>
+			<key>target</key>
+			<string>/usr/lib/librpmbuild.so.9.1.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

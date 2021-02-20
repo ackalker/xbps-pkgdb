@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/void-artwork</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/void-artwork/splash.png</string>
+			<key>mtime</key>
+			<integer>1604072688</integer>
+			<key>sha256</key>
+			<string>8cc2b42fa4eb0034e91a5b7e5d9578b5747b374b9bd25611a45d782a01b7197b</string>
+			<key>size</key>
+			<integer>100743</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/void-artwork/splashwhite.png</string>
+			<key>mtime</key>
+			<integer>1604072688</integer>
+			<key>sha256</key>
+			<string>9fca29044b83a664470968f3602ae731c1a27fda52f496ca798cb34f125bc7ec</string>
+			<key>size</key>
+			<integer>56002</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/void-artwork/void-logo.png</string>
+			<key>mtime</key>
+			<integer>1604072688</integer>
+			<key>sha256</key>
+			<string>824614b514dec80f6ceada54845688fc11f0765c70ff14e7dd15f5f9b33396b3</string>
+			<key>size</key>
+			<integer>9018</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/void-artwork/void-transparent.png</string>
+			<key>mtime</key>
+			<integer>1604072688</integer>
+			<key>sha256</key>
+			<string>0729b5da22707216e74d0d9444c8b1d33f44fdc678889bb591f22623aea7ecf6</string>
+			<key>size</key>
+			<integer>22246</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

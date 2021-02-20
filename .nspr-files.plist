@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libnspr4.so</string>
+			<key>mtime</key>
+			<integer>1600935097</integer>
+			<key>sha256</key>
+			<string>b7c14e9a5f71d9f628e62d12a8d6fedba4dde9dabc81719c1bbe24484ea49c7a</string>
+			<key>size</key>
+			<integer>287280</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libplc4.so</string>
+			<key>mtime</key>
+			<integer>1600935097</integer>
+			<key>sha256</key>
+			<string>87e65f6cfb16b69492291108763b27808f6e8871eba7b7ed2742baaf8de2fe73</string>
+			<key>size</key>
+			<integer>22536</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libplds4.so</string>
+			<key>mtime</key>
+			<integer>1600935097</integer>
+			<key>sha256</key>
+			<string>58019138acd6222765adad7b87f9e1b5cd71e111565f8baafc57a81ab928039d</string>
+			<key>size</key>
+			<integer>14376</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

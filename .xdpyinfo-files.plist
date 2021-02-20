@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xdpyinfo</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/xdpyinfo</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>0c7c8b554f9512daa0602949575326ac5f319b7df5be0be9366651514185cb06</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/xdpyinfo/COPYING</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>49733ead65fdfa1da0d176f9b965cc08dae74d73d66c9606488d52f6fc036abf</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/xdpyinfo.1</string>
+			<key>mtime</key>
+			<integer>1543093136</integer>
+			<key>sha256</key>
+			<string>9c055527cb5a57b58d07a84eb6391f78d3ea5419bd0e018d27c5f65e9380f068</string>
+		</dict>
+	</array>
+</dict>
+</plist>

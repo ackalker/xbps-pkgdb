@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/include</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/include/X11</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/pkgconfig</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/include/X11/Xdmcp.h</string>
+			<key>mtime</key>
+			<integer>1552760991</integer>
+			<key>sha256</key>
+			<string>7326c6b4504939ba0ad61fece04238460020996ef230b8bd9e6b14e4ad5ca426</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXdmcp.a</string>
+			<key>mtime</key>
+			<integer>1552760991</integer>
+			<key>sha256</key>
+			<string>be22a56b29da1f5ca262b17cac9508be04c4a9a227159cfbf79970471d6b9984</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/pkgconfig/xdmcp.pc</string>
+			<key>mtime</key>
+			<integer>1552760991</integer>
+			<key>sha256</key>
+			<string>62d059ccbe682d7ebad47f68bebc35df7f747a65c56f93e43d3445e5c042f63d</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXdmcp.so</string>
+			<key>mtime</key>
+			<integer>1552760991</integer>
+			<key>target</key>
+			<string>/usr/lib/libXdmcp.so.6.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

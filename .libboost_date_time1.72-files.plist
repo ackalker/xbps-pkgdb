@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libboost_date_time.so.1.72.0</string>
+			<key>mtime</key>
+			<integer>1602352457</integer>
+			<key>sha256</key>
+			<string>7e3dd36c8432e2ac0535f1b2569a3c69e6fdb096965752a6a818fa1b8461ac6d</string>
+			<key>size</key>
+			<integer>71760</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libboost_date_time.so.1</string>
+			<key>mtime</key>
+			<integer>1602352457</integer>
+			<key>target</key>
+			<string>/usr/lib/libboost_date_time.so.1.72.0</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libboost_date_time.so.1.72</string>
+			<key>mtime</key>
+			<integer>1602352457</integer>
+			<key>target</key>
+			<string>/usr/lib/libboost_date_time.so.1.72.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

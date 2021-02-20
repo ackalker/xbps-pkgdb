@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/etc</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/etc/xdg</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/etc/xdg/autostart</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/libexec</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/etc/xdg/autostart/xfce-polkit.desktop</string>
+			<key>mtime</key>
+			<integer>1533072012</integer>
+			<key>sha256</key>
+			<string>2bedcd1357947473c1df602ee8c3f843244cdc3a464d7887d7ca7d86438635ec</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/libexec/xfce-polkit</string>
+			<key>mtime</key>
+			<integer>1533072012</integer>
+			<key>sha256</key>
+			<string>41c084803b694421642930cf7badfafec30d6b2d22cf7234606a29d5e44e4c0a</string>
+		</dict>
+	</array>
+</dict>
+</plist>

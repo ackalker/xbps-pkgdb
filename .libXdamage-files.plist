@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libXdamage</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXdamage.so.1.1.0</string>
+			<key>mtime</key>
+			<integer>1552280777</integer>
+			<key>sha256</key>
+			<string>5b0ee3d0c07e6f016268816ccea78f7c2f1561dc0526d3920320f3c74fbf3436</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libXdamage/COPYING</string>
+			<key>mtime</key>
+			<integer>1552280777</integer>
+			<key>sha256</key>
+			<string>33effe928634be12e668465c3935c5570ff2787b970b15d9243d69df42302c57</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libXdamage.so.1</string>
+			<key>mtime</key>
+			<integer>1552280777</integer>
+			<key>target</key>
+			<string>/usr/lib/libXdamage.so.1.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

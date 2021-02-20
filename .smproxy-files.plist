@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/smproxy</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/smproxy</string>
+			<key>mtime</key>
+			<integer>1543509040</integer>
+			<key>sha256</key>
+			<string>69f774807c7f34ffc2b87a29399f671bf150f97ea9d85f060d28061329821021</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/smproxy/COPYING</string>
+			<key>mtime</key>
+			<integer>1543509040</integer>
+			<key>sha256</key>
+			<string>92dce6d8a1fcc0c6b5e56dc44e431e7f73bfa2ed5e83295662aa314067a671d8</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/smproxy.1</string>
+			<key>mtime</key>
+			<integer>1543509040</integer>
+			<key>sha256</key>
+			<string>8fd0abf85b5984224703ce398d17d1cab6a14b91091ae5737911b48f6bcce4a7</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsamplerate.so.0.1.8</string>
+			<key>mtime</key>
+			<integer>1474293642</integer>
+			<key>sha256</key>
+			<string>b5e0cdacd56d5167ffa299c26b28133ef0521a4f662f70dbf862c60bab763634</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/sndfile-resample</string>
+			<key>mtime</key>
+			<integer>1474293642</integer>
+			<key>sha256</key>
+			<string>26965174e8574d80c5dbffce09be79f1314360d3eea8da6985b263296861d8b6</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsamplerate.so.0</string>
+			<key>mtime</key>
+			<integer>1474293642</integer>
+			<key>target</key>
+			<string>/usr/lib/libsamplerate.so.0.1.8</string>
+		</dict>
+	</array>
+</dict>
+</plist>

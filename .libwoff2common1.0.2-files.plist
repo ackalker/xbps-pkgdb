@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libwoff2common.so.1.0.2</string>
+			<key>mtime</key>
+			<integer>1544803625</integer>
+			<key>sha256</key>
+			<string>cf675136d8006b8c4bb8e53a4d231f0f335fa5762175109f3b8c4d1f08956af9</string>
+		</dict>
+	</array>
+</dict>
+</plist>

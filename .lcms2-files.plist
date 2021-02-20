@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/lcms2</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/liblcms2.so.2.0.10</string>
+			<key>mtime</key>
+			<integer>1607527664</integer>
+			<key>sha256</key>
+			<string>78847f92ffd1a94cc7ebf7c14bf59acf6e5440affb20ed7d7be75771c97cc353</string>
+			<key>size</key>
+			<integer>381856</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/lcms2/COPYING</string>
+			<key>mtime</key>
+			<integer>1607527664</integer>
+			<key>sha256</key>
+			<string>53ad5ca11b8f4079e9c9bfa61575927a33f53526d6d414287149ec3ab61e8e4d</string>
+			<key>size</key>
+			<integer>1078</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/liblcms2.so.2</string>
+			<key>mtime</key>
+			<integer>1607527664</integer>
+			<key>target</key>
+			<string>/usr/lib/liblcms2.so.2.0.10</string>
+		</dict>
+	</array>
+</dict>
+</plist>

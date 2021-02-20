@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libaa.so.1.0.4</string>
+			<key>mtime</key>
+			<integer>1500501925</integer>
+			<key>sha256</key>
+			<string>30d87709270281ff846302ca20d4815556015da16ec5759e136e4b081604040b</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libaa.so.1</string>
+			<key>mtime</key>
+			<integer>1500501925</integer>
+			<key>target</key>
+			<string>/usr/lib/libaa.so.1.0.4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libQt5Test.so.5.15.2</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>sha256</key>
+			<string>d3e8129b879b0715c49ab3d30704d3c9a81cae04e2baa13640b5df1cbbe46b6b</string>
+			<key>size</key>
+			<integer>313760</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libQt5Test.so</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>target</key>
+			<string>/usr/lib/libQt5Test.so.5.15.2</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libQt5Test.so.5</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>target</key>
+			<string>/usr/lib/libQt5Test.so.5.15.2</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libQt5Test.so.5.15</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>target</key>
+			<string>/usr/lib/libQt5Test.so.5.15.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

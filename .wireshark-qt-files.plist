@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/applications</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/wireshark</string>
+			<key>mtime</key>
+			<integer>1608906356</integer>
+			<key>sha256</key>
+			<string>d9cfbcf3335f8ff28bae6de999225b5e57e72b486515f959ee37447c5bafddd7</string>
+			<key>size</key>
+			<integer>8852432</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/applications/wireshark.desktop</string>
+			<key>mtime</key>
+			<integer>1608906356</integer>
+			<key>sha256</key>
+			<string>1d4e06f4317456cbd254b810285a7dfa1609ccc57bd5e4a1e17f3a689981d5fc</string>
+			<key>size</key>
+			<integer>5062</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/wireshark.1</string>
+			<key>mtime</key>
+			<integer>1608906356</integer>
+			<key>sha256</key>
+			<string>2f51aff5f83b01be285188d7d0bddcd562c5b20ce5ed001334a61a9a00ff8297</string>
+			<key>size</key>
+			<integer>226930</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man3</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl/Net</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl/Net/SMTP</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man3/Net::SMTP::SSL.3p</string>
+			<key>mtime</key>
+			<integer>1603904712</integer>
+			<key>sha256</key>
+			<string>89cf94f56ed1fb108a9d6ff5e24a9f2682100c52eb1df8c0d435be20b88f3ec5</string>
+			<key>size</key>
+			<integer>3495</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl/Net/SMTP/SSL.pm</string>
+			<key>mtime</key>
+			<integer>1603904712</integer>
+			<key>sha256</key>
+			<string>1690b5ee9585b9205ccef2a732d4f9a9f5b7d32c5bafeb6a7f73db42f3a8e245</string>
+			<key>size</key>
+			<integer>1646</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

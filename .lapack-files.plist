@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/lapack</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/liblapack.so.3.9.0</string>
+			<key>mtime</key>
+			<integer>1582054109</integer>
+			<key>sha256</key>
+			<string>695c7a8936b3cc99e1bc29a41864b72779edc8e78779821d8291dbd79ae3948b</string>
+			<key>size</key>
+			<integer>6956960</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/lapack/LICENSE</string>
+			<key>mtime</key>
+			<integer>1582054109</integer>
+			<key>sha256</key>
+			<string>d56bd4441b999b80c88df04faf0d8b3d7d3b2bd781cf91242c4188e8a6d0f8be</string>
+			<key>size</key>
+			<integer>2266</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/liblapack.so.3</string>
+			<key>mtime</key>
+			<integer>1582054109</integer>
+			<key>target</key>
+			<string>/usr/lib/liblapack.so.3.9.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

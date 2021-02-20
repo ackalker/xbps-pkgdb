@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/scrcpy</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/scrcpy</string>
+			<key>mtime</key>
+			<integer>1613711587</integer>
+			<key>sha256</key>
+			<string>32f309abddd1e72c3a75bf33b34539cee916bff43b0b165f945c9b7ee67da741</string>
+			<key>size</key>
+			<integer>80584</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/scrcpy.1</string>
+			<key>mtime</key>
+			<integer>1613711587</integer>
+			<key>sha256</key>
+			<string>e234a3b140ae6cb3c92ae9aafbf33e335d5e793c5084aba9b6112f3087fb08fb</string>
+			<key>size</key>
+			<integer>8490</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/scrcpy/scrcpy-server</string>
+			<key>mtime</key>
+			<integer>1613711587</integer>
+			<key>sha256</key>
+			<string>11b5ad2d1bc9b9730fb7254a78efd71a8ff46b1938ff468e47a21b653a1b6725</string>
+			<key>size</key>
+			<integer>34930</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

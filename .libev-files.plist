@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libev</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libev.so.4.0.0</string>
+			<key>mtime</key>
+			<integer>1584694287</integer>
+			<key>sha256</key>
+			<string>5bee0a8403baf0676f0a20ec544236deae007ef570ed338edfe8ee22abdb203c</string>
+			<key>size</key>
+			<integer>67488</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libev/LICENSE</string>
+			<key>mtime</key>
+			<integer>1584694287</integer>
+			<key>sha256</key>
+			<string>c4dd1a5bc38b041a320b93c5d6c08f5c41a63f2ce718ee16cfcb757fad448199</string>
+			<key>size</key>
+			<integer>2055</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libev.so.4</string>
+			<key>mtime</key>
+			<integer>1584694287</integer>
+			<key>target</key>
+			<string>/usr/lib/libev.so.4.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

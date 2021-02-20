@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/vdpauinfo</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/vdpauinfo</string>
+			<key>mtime</key>
+			<integer>1508104174</integer>
+			<key>sha256</key>
+			<string>3a1e5a4d9171914941ee0feeb21236893db7627ebd4ff4f84ca4d76922664de7</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/vdpauinfo/COPYING</string>
+			<key>mtime</key>
+			<integer>1508104174</integer>
+			<key>sha256</key>
+			<string>7877a08f937ba6e6f2c422a915bef98c67a89e6d826d03355d9f8dd2b692c318</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libdav1d4</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libdav1d.so.5.0.0</string>
+			<key>mtime</key>
+			<integer>1613710681</integer>
+			<key>sha256</key>
+			<string>9c048bf73a4f7535387d60a74883e3cfea7ef0220a945c61ffe3884a9f072a1b</string>
+			<key>size</key>
+			<integer>1005560</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libdav1d4/COPYING</string>
+			<key>mtime</key>
+			<integer>1613710681</integer>
+			<key>sha256</key>
+			<string>b327887de263238deaa80c34cdd2ff3e0ba1d35db585ce14a37ce3e74ee389e9</string>
+			<key>size</key>
+			<integer>1317</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libdav1d.so.5</string>
+			<key>mtime</key>
+			<integer>1613710681</integer>
+			<key>target</key>
+			<string>/usr/lib/libdav1d.so.5.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

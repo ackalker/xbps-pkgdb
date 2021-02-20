@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/glpsol</string>
+			<key>mtime</key>
+			<integer>1608404456</integer>
+			<key>sha256</key>
+			<string>a031d8676d34d87412e64cf93301a233449b745cf5781cb884c497cde81125a0</string>
+			<key>size</key>
+			<integer>47168</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libglpk.so.40.3.1</string>
+			<key>mtime</key>
+			<integer>1608404456</integer>
+			<key>sha256</key>
+			<string>4e66e958286cf8785d31307a0b2db85a0a11fa01061426fcbada2ec18e25ffed</string>
+			<key>size</key>
+			<integer>964776</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libglpk.so.40</string>
+			<key>mtime</key>
+			<integer>1608404456</integer>
+			<key>target</key>
+			<string>/usr/lib/libglpk.so.40.3.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

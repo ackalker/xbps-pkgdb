@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr/libexec</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr/libexec/mc</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr/bin/mc</string>
+			<key>mtime</key>
+			<integer>1611836813</integer>
+			<key>sha256</key>
+			<string>241bd59bb4faf682f2be03982caf03c027c3f41e618fbc007b3f55b5e7bf7b9d</string>
+			<key>size</key>
+			<integer>1812768</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/debug/usr/libexec/mc/cons.saver</string>
+			<key>mtime</key>
+			<integer>1611836813</integer>
+			<key>sha256</key>
+			<string>582832ebd3a9667ca64c63d52c4ccf08ca663771c78de71f63d0a3ed4c65377a</string>
+			<key>size</key>
+			<integer>13176</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

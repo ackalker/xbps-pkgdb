@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/opus</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libopus.so.0.8.0</string>
+			<key>mtime</key>
+			<integer>1555151975</integer>
+			<key>sha256</key>
+			<string>c2a5780904739b4ba4d8d6408c02d5b782f916e64fa8b386e8c4b75ab9172936</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/opus/COPYING</string>
+			<key>mtime</key>
+			<integer>1555151975</integer>
+			<key>sha256</key>
+			<string>8338ce8d922bb4416ce3dd1e5680173332435e3f0755007ac7801ccd674fe682</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libopus.so.0</string>
+			<key>mtime</key>
+			<integer>1555151975</integer>
+			<key>target</key>
+			<string>/usr/lib/libopus.so.0.8.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

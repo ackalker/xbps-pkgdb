@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/qt5</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/qt5/plugins</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/qt5/plugins/sqldrivers</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/qt5/plugins/sqldrivers/libqsqltds.so</string>
+			<key>mtime</key>
+			<integer>1612742701</integer>
+			<key>sha256</key>
+			<string>5b965a72aad784bfe649cd3e7a3d1fd6cdbe0dabcebe69b415a59e847323ea37</string>
+			<key>size</key>
+			<integer>59528</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

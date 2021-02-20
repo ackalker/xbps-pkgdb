@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/etc</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/etc/profile.d</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/etc/profile.d/texlive.sh</string>
+			<key>mtime</key>
+			<integer>1594837676</integer>
+			<key>sha256</key>
+			<string>e218517f9e273de260d935a0d0d1e291dbeb8bc749233998eac8ab242ffa5812</string>
+			<key>size</key>
+			<integer>87</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

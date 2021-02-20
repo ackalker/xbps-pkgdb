@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/etc</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/etc/OpenCL</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/etc/OpenCL/vendors</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/etc/OpenCL/vendors/mesa.icd</string>
+			<key>mtime</key>
+			<integer>1612061379</integer>
+			<key>sha256</key>
+			<string>a71a2c841fced31f741f96267fb2fcc0e9a37f4e1886a5790c79b8700cb5f840</string>
+			<key>size</key>
+			<integer>19</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libMesaOpenCL.so.1.0.0</string>
+			<key>mtime</key>
+			<integer>1612061379</integer>
+			<key>sha256</key>
+			<string>c917b165d1dd78cf58fec9677994e5a79f56e04f1ef18a3142bba46bf88c4793</string>
+			<key>size</key>
+			<integer>833752</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libMesaOpenCL.so.1</string>
+			<key>mtime</key>
+			<integer>1612061379</integer>
+			<key>target</key>
+			<string>/usr/lib/libMesaOpenCL.so.1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

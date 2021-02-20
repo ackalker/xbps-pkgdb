@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/efivar</string>
+			<key>mtime</key>
+			<integer>1544051736</integer>
+			<key>sha256</key>
+			<string>7201ad5edd10d53f8686e42104f50fa6394012ff1fbb0283c277ded0bc7a2b46</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/efivar-tester</string>
+			<key>mtime</key>
+			<integer>1544051736</integer>
+			<key>sha256</key>
+			<string>4130d4fda416daa4698e26d2f947e6b5efd412cdd798beb59a5194da3f3ebca2</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/efivar.1</string>
+			<key>mtime</key>
+			<integer>1544051736</integer>
+			<key>sha256</key>
+			<string>fdab60a073c825f0030087ae8ae2d1ffa1f5b4bd1cc9f2c06881beaa3a180189</string>
+		</dict>
+	</array>
+</dict>
+</plist>

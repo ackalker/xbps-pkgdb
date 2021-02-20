@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libmpcdec</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libmpcdec.so.5.0.2</string>
+			<key>mtime</key>
+			<integer>1542728314</integer>
+			<key>sha256</key>
+			<string>a9efd5fb28892365d64f8118d8083d2052974d459a5dbbcb7665997d269af7e4</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libmpcdec/COPYING</string>
+			<key>mtime</key>
+			<integer>1542728314</integer>
+			<key>sha256</key>
+			<string>141f551d8e4f037b7f6bc9136b7d3116c7ae9ec8da10c4f14c07c6dc34bc9aa5</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libmpcdec.so.5</string>
+			<key>mtime</key>
+			<integer>1542728314</integer>
+			<key>target</key>
+			<string>/usr/lib/libmpcdec.so.5.0.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/w3m</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/doc</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/doc/w3m</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/w3m/w3mimgdisplay</string>
+			<key>mtime</key>
+			<integer>1610063356</integer>
+			<key>sha256</key>
+			<string>bca7f8aacb51d7e65fef3825fe1dba41945ba4f606a103305e43de9f59e3ad16</string>
+			<key>size</key>
+			<integer>30800</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/doc/w3m/README.img</string>
+			<key>mtime</key>
+			<integer>1610063356</integer>
+			<key>sha256</key>
+			<string>a47f58dc18d85750bc815264a75fc2bd6ec85b883142d76742002763184d86d7</string>
+			<key>size</key>
+			<integer>7023</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

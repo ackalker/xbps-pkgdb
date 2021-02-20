@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libgit2</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgit2.so.1.0.1</string>
+			<key>mtime</key>
+			<integer>1593876130</integer>
+			<key>sha256</key>
+			<string>75fa90904917578297810c7e5194846b68c4b906c351dc4105230daed27c5dc2</string>
+			<key>size</key>
+			<integer>1298776</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/libgit2/COPYING</string>
+			<key>mtime</key>
+			<integer>1593876130</integer>
+			<key>sha256</key>
+			<string>afc8bde99ba630012107c25d3c42dde628ec5f0cd3f428131f7e3a0f7d58ff42</string>
+			<key>size</key>
+			<integer>52209</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libgit2.so.1.0</string>
+			<key>mtime</key>
+			<integer>1593876130</integer>
+			<key>target</key>
+			<string>/usr/lib/libgit2.so.1.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

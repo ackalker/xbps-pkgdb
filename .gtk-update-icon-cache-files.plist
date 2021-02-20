@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/gtk-update-icon-cache</string>
+			<key>mtime</key>
+			<integer>1611999521</integer>
+			<key>sha256</key>
+			<string>d0c250bd810ad9171d571bc07728b35c47fa1b6000c2dcb43374076d4892a92b</string>
+			<key>size</key>
+			<integer>35376</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man1/gtk-update-icon-cache.1</string>
+			<key>mtime</key>
+			<integer>1611999521</integer>
+			<key>sha256</key>
+			<string>05290c564dbe761d41184b570543fed99d47b9f798c6574edb939d513247cbc6</string>
+			<key>size</key>
+			<integer>3105</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

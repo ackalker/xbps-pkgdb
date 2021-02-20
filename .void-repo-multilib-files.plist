@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/xbps.d</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/xbps.d/10-repository-multilib.conf</string>
+			<key>mtime</key>
+			<integer>1559839355</integer>
+			<key>sha256</key>
+			<string>daad952803034e561a38d9038f8b9ae7fbd5764a8947433c96006a509a2bc730</string>
+		</dict>
+	</array>
+</dict>
+</plist>

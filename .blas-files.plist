@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/blas</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libblas.so.3.9.0</string>
+			<key>mtime</key>
+			<integer>1582054109</integer>
+			<key>sha256</key>
+			<string>d2e3bfaefd021f33a5832c84467c21862c26b6816e4f57375c5777af1eb4f44b</string>
+			<key>size</key>
+			<integer>346016</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/blas/LICENSE</string>
+			<key>mtime</key>
+			<integer>1582054109</integer>
+			<key>sha256</key>
+			<string>d56bd4441b999b80c88df04faf0d8b3d7d3b2bd781cf91242c4188e8a6d0f8be</string>
+			<key>size</key>
+			<integer>2266</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libblas.so.3</string>
+			<key>mtime</key>
+			<integer>1582054109</integer>
+			<key>target</key>
+			<string>/usr/lib/libblas.so.3.9.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

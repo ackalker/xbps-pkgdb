@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libnvidia-gtk2.so.460.39</string>
+			<key>mtime</key>
+			<integer>1613786986</integer>
+			<key>sha256</key>
+			<string>931bec30801094c6b72e2cc37059895b86c42a44fcd06308b99adf7db87ab5c7</string>
+			<key>size</key>
+			<integer>1367368</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libnvidia-gtk3.so.460.39</string>
+			<key>mtime</key>
+			<integer>1613786986</integer>
+			<key>sha256</key>
+			<string>36aa2a79a7da41288343af15e268cb7472247a2760483285624ebd29bab618ed</string>
+			<key>size</key>
+			<integer>1376040</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

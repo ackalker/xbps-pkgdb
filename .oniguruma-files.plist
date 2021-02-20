@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/oniguruma</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libonig.so.5.0.0</string>
+			<key>mtime</key>
+			<integer>1601912026</integer>
+			<key>sha256</key>
+			<string>63f667cf6549a132b997084abd273882b3b4fe1bcc8c292447377bec7c533f6c</string>
+			<key>size</key>
+			<integer>597152</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/licenses/oniguruma/COPYING</string>
+			<key>mtime</key>
+			<integer>1601912026</integer>
+			<key>sha256</key>
+			<string>6c7038393e8f30fee16257e713f77e383712f1465d6d25929596746b10b42bd3</string>
+			<key>size</key>
+			<integer>1340</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libonig.so.5</string>
+			<key>mtime</key>
+			<integer>1601912026</integer>
+			<key>target</key>
+			<string>/usr/lib/libonig.so.5.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

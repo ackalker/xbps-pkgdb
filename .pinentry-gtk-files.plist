@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/pinentry-gtk-2</string>
+			<key>mtime</key>
+			<integer>1611409579</integer>
+			<key>sha256</key>
+			<string>eb50b8008d9aa4527194bff0230cd5488a9be9e19e819deebe0aa57072873190</string>
+			<key>size</key>
+			<integer>96832</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

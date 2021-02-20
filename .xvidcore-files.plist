@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxvidcore.so.4.3</string>
+			<key>mtime</key>
+			<integer>1577803414</integer>
+			<key>sha256</key>
+			<string>3d9cac78ccc4de4c19b101eaf8ead19d5a5435d5fc292c02458a09f33efb943f</string>
+			<key>size</key>
+			<integer>691264</integer>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libxvidcore.so.4</string>
+			<key>mtime</key>
+			<integer>1577803414</integer>
+			<key>target</key>
+			<string>/usr/lib/libxvidcore.so.4.3</string>
+		</dict>
+	</array>
+</dict>
+</plist>

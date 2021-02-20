@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/sbcdec</string>
+			<key>mtime</key>
+			<integer>1537441110</integer>
+			<key>sha256</key>
+			<string>86abcc004cfff53f84be4e5f367fb78d20a9f7f66e306aef11c74f75b8190262</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/sbcenc</string>
+			<key>mtime</key>
+			<integer>1537441110</integer>
+			<key>sha256</key>
+			<string>7f968e49a77663df7016969d28e613d9159c6321cb2914343140ac52f4f524e5</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/bin/sbcinfo</string>
+			<key>mtime</key>
+			<integer>1537441110</integer>
+			<key>sha256</key>
+			<string>f8bea01dd0b1aa78aad497b61835be22f074a6f3655e3459585e8bd2a401095e</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsbc.so.1.2.2</string>
+			<key>mtime</key>
+			<integer>1537441110</integer>
+			<key>sha256</key>
+			<string>547ed4c7d8d285912a2eacb6eead4633345343cc3e756b23505b256b63fa327d</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libsbc.so.1</string>
+			<key>mtime</key>
+			<integer>1537441110</integer>
+			<key>target</key>
+			<string>/usr/lib/libsbc.so.1.2.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

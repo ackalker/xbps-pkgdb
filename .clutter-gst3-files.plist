@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/gstreamer-1.0</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/girepository-1.0/ClutterGst-3.0.typelib</string>
+			<key>mtime</key>
+			<integer>1556408752</integer>
+			<key>sha256</key>
+			<string>61f3d77f0b29996e511e20b5b1757d3403f65fc3b86f1c283cb677749a36a5e1</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/gstreamer-1.0/libcluttergst3.so</string>
+			<key>mtime</key>
+			<integer>1556408752</integer>
+			<key>sha256</key>
+			<string>3f0fa1729ad6ec8268eb7d09100e86dc3715a16f96bcaef28c122132128ed7c3</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libclutter-gst-3.0.so.0.27.0</string>
+			<key>mtime</key>
+			<integer>1556408752</integer>
+			<key>sha256</key>
+			<string>be7e5641b347a2bf0954b77a21134cff4f1d78ae29034c38f5210bb86b3caa33</string>
+		</dict>
+	</array>
+	<key>links</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/lib/libclutter-gst-3.0.so.0</string>
+			<key>mtime</key>
+			<integer>1556408752</integer>
+			<key>target</key>
+			<string>/usr/lib/libclutter-gst-3.0.so.0.27.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

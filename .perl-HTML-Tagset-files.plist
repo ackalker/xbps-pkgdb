@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dirs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man3</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl/HTML</string>
+		</dict>
+	</array>
+	<key>files</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/man/man3/HTML::Tagset.3p</string>
+			<key>mtime</key>
+			<integer>1603909533</integer>
+			<key>sha256</key>
+			<string>a20fc0dd5ca5c86b372729d5bb4f80c0a1da8663c7e1364c090be17bfff59299</string>
+			<key>size</key>
+			<integer>10810</integer>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>/usr/share/perl5/vendor_perl/HTML/Tagset.pm</string>
+			<key>mtime</key>
+			<integer>1603909533</integer>
+			<key>sha256</key>
+			<string>8c30b67ed4a38430daa9a9cdb6f1cec29b440247293ad293f8a02d4926de11a9</string>
+			<key>size</key>
+			<integer>12947</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
